@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-online-pulsa",
+        "command": "slot-online-pulsa:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-online-pulsa",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-online-pulsa:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
