@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Lagi Gacor Pola Main Slot Online Pulsa Indonesia Terpercaya](https://atom.io/packages/slot-online-pulsa)
-## :gift: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/) :snowflake: <<< 
-## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :zap: <<< 
-## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :white_check_mark: <<< 
+## :gift: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/) :snowflake: <<< 
+## :ok_hand: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :zap: <<< 
+## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :white_check_mark: <<< 
 
 ## Informasi Situs /Server Kami : 
 
